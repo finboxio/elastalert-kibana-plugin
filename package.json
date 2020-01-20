@@ -18,7 +18,7 @@
     "build": "plugin-helpers build"
   },
   "dependencies": {
-    "@kbn/i18n": "link:../../packages/kbn-i18n"
+    "@elastic/eui": "^11.0.1"
   },
   "devDependencies": {
     "@elastic/eslint-config-kibana": "link:../../packages/eslint-config-kibana",
