@@ -1,0 +1,9 @@
+{
+  "paths": {
+    "elastalertKibanaPlugin": "./"
+  },
+  "translations": [
+    "translations/zh-CN.json"
+  ]
+}
+
